@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599575955 source:c:\users\nicolas\documents\cursos 2020\lee 5º2\actividad nº9\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
